@@ -27,7 +27,7 @@ public class BrandBook {
     /** The ListView containing the names of brands or designers */
     private ListView<String> listView;
 
-    /** The text field for the user to enter a city */
+    /** The text field for the user to enter a brand or designer */
     private TextField inputField;
 
     /**
